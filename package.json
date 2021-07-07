@@ -34,7 +34,7 @@
     "gulp-json-fmt": "^1.0.1",
     "gulp-markdown-toc": "^1.1.0",
     "gulp-rename": "^2.0.0",
-    "husky": "^4.2.5",
+    "husky": "^7.0.1",
     "lerna": "^3.22.1",
     "mdinclude": "^0.7.1",
     "prettier": "^2.2.1",
